@@ -1,5 +1,5 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration on a board.
+Repository with preconfigured maven project with SpringConfig and SpringMvcDispatcherInitializer classes on a board.
 
 ## Building
 ...
